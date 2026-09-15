@@ -1,31 +1,57 @@
 # Mahmudul Hasan
 
-**Full-stack developer focused on reliable web applications and practical software solutions.**
+### Senior Software Engineer | Full-stack .NET | Distributed Systems
 
-I build across the stack—from backend services and authentication to responsive user interfaces. I enjoy turning real-world requirements into maintainable products and continuously improving how I design, ship, and document software.
+I am a production-focused software engineer with **5+ years of experience** building and supporting multi-tenant SaaS products, distributed workflows, and data-intensive APIs. I work across backend services, data, cloud infrastructure, CI/CD, and modern web interfaces—with a strong focus on correctness, performance, security, and maintainability.
 
-## Technical focus
+## Impact
 
-- **Backend:** C#, .NET, REST APIs, authentication and authorization
-- **Frontend:** JavaScript and responsive web interfaces
-- **Data:** SQL and data-driven application design
-- **Workflow:** Git, GitHub, debugging, and iterative delivery
+- Led the modernization of a **35,000+ file** backend from .NET Core 2.2 / .NET Framework 4.7 to **.NET 8**
+- Upgraded a complex data-access layer to **Entity Framework Core 9** and helped reduce average API latency by **40%**
+- Designed resilient workflow orchestration across microservices for long-running business processes
+- Resolved **2,000+ Veracode findings** and strengthened security through careful technical review
+- Diagnosed production issues across applications, databases, deployments, and cloud-hosted services
+- Mentor engineers through code review, debugging, documentation, and system-design decisions
 
-## Selected projects
+## Technology
 
-- [Art Exhibition Gallery Booking System](https://github.com/labibgb/art-exhibition-gallery-booking-system) — A booking-focused web application for art exhibitions and galleries.
-- [Student Portal](https://github.com/labibgb/StudentPortal) — A portal application built around student workflows.
-- [Online-based Garbage Collector](https://github.com/labibgb/Online-based-garbage-collector) — A system for requesting residential waste collection.
-- [COVID-19 Classification](https://github.com/labibgb/COVID19_Classification) — A classification project exploring a real-world healthcare dataset.
+**Languages:** C#, TypeScript, JavaScript, SQL, C/C++  
+**Backend:** .NET 8, ASP.NET Core, EF Core 9, REST APIs, microservices  
+**Frontend:** Angular 18  
+**Data:** SQL Server, MySQL, relational data modeling, query optimization  
+**Cloud & Operations:** AWS ECS, RDS, EC2, S3, DynamoDB, IIS, Windows Server  
+**Delivery:** GitHub Actions, CI/CD, production debugging  
+**Architecture & Security:** Distributed systems, workflow orchestration, IdentityServer4, JWT, SignalR, Hangfire, application security
 
-## What I value
+## Selected Work
 
-Clean code, thoughtful architecture, useful documentation, and software that solves genuine problems.
+### ExpertHire
+
+Cloud-hosted job platform with services for job posting, search indexing, and application workflows.
+
+- Built backend services and supported AWS ECS deployment with RDS and S3
+- Implemented IdentityServer4 / JWT authentication
+- Connected development and operations through GitHub Actions CI/CD
+
+### Reserveit
+
+Reservation and notification platform built with .NET Web APIs and MySQL.
+
+- Developed API and relational data components
+- Integrated Firebase Cloud Messaging and real-time notification services
+- Debugged application and database interactions across the stack
+
+## Beyond Production Engineering
+
+- **ICPC Dhaka Regional 2019:** 36th of 190 teams
+- **Codeforces:** Peak rating of 1640
+- Participated in **20+ national programming contests**
+- B.Sc. in Computer Science & Engineering, University of Asia Pacific
 
 ## Connect
 
-- [GitHub profile](https://github.com/labibgb)
+[LinkedIn](https://www.linkedin.com/in/labibgb/) · [GitHub](https://github.com/labibgb/)
 
 ---
 
-Open to full-stack software engineering opportunities and meaningful collaborations.
+Open to senior full-stack and backend-focused software engineering opportunities.
